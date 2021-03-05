@@ -1,0 +1,50 @@
+@media (max-width: 525px) {
+	.toparea {margin: 15px 11px;}
+}
+
+@media (max-width: 2000px) {
+	.sidebox ul.postsideseri li a h3 {font-size: 14px; line-height: 25px;}
+}
+
+@media (max-width: 1199px) {
+  .searcharea input {width: 87%;}
+  .footbox input {width: 78%;}
+  .sidebox ul.postsideseri li a h3 {font-size: 15px; line-height: 24px;}
+  footer .calltabar {width: 930px;}
+  footer.bodddi {width: 945px;}
+  
+}
+
+@media (max-width: 767px) {
+  .logoarea {text-align: center;}
+    .logoarea img {float: none;}
+    .mainmenuarea ul li a {padding: 10px 10px;}
+	.toparea {margin: 15px 13px;}
+	.logoarea h1 {padding: 16px 55px 0px 50px;}
+	.logoarea h3 {padding: 3px 102px 0px 85px;}
+	
+}
+
+@media (max-width: 991px) {
+    .footbox input {width: 71%}
+	.searcharea input {width: 83%;}
+	.fa-home:before {content: "";}
+	.fa-newspaper-o:before {content: "";}
+	.fa-pinterest:before {content: "";}
+	.fa-rss:before {content: "";}
+	.fa-user:before {content: "";}
+	.fa-phone:before {content: "";}
+	.mainmenuarea ul li a {padding: 10px 12px;}
+	.sidebox ul.postsideseri li a h3 {font-size: 15px; line-height: 75px;}
+	.sidebox ul.postsideseri li img {width: 80px;}
+	.sidebox section img {margin: 0 -6px;}
+	footer.bodddi {width: 705px;}
+	footer .calltabar {width: 690px;}
+}
+
+@media (min-width: 400px) {
+	.sidebox ul.postsideseri li a h3 {font-size: 12px;}
+}
+
+
+
